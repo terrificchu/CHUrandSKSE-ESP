@@ -1,0 +1,128 @@
+# exclude everything
+/crand/
+/DialogueViews/
+/Docs/
+/HeightField/
+/meshes/
+/readmes/
+/scripts/
+/shadercache/
+/source/
+/SSEEdit\ Backups/
+/SSEEdit\ Cache/
+/textures/
+/Video/
+
+# exception to the rule
+!.gitkeep 
+!CHUrandSKSE.bsa
+!CHUrandSKSE-t.bsa
+!CHUrandSKSE.esp
+
+
+Campfire.esm
+Campfire.bsa
+Wild World.esp
+vortex.deployment.json.zWQQjQ.tmp
+vortex.deployment.json
+Update.esm
+Unofficial Skyrim Special Edition Patch.modgroups
+Unofficial Skyrim Special Edition Patch.ini
+Unofficial Skyrim Special Edition Patch.esp
+Unofficial Skyrim Special Edition Patch.bsa
+Unofficial Skyrim Special Edition Patch - Textures.bsa
+TrueStormsSE.esp
+TrueStormsSE.bsa
+TrueStormsSE - Textures.bsa
+Tamriel Reloaded HD SE.ini
+Tamriel Reloaded HD SE.esp
+Skyrim.esm
+Skyrim - Voices_en0.bsa
+Skyrim - Textures8.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures0.bsa
+Skyrim - Sounds.bsa
+Skyrim - Shaders.bsa
+Skyrim - Patch.bsa
+Skyrim - Misc.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Interface.bsa
+Skyrim - Animations.bsa
+SKSE/SKSE.ini
+SKSE/Plugins/po3_papyrusextender64.dll
+SKSE/Plugins/PapyrusUtil.dll
+SKSE/Plugins/EngineFixes_SNCT.ini
+SKSE/Plugins/EngineFixes_preload.txt
+SKSE/Plugins/EngineFixes.ini
+SKSE/Plugins/EngineFixes.dll
+SKSE/Plugins/Chus Skyrim Randomizer SKSE.pdb
+SKSE/Plugins/Chus Skyrim Randomizer SKSE.lib
+SKSE/Plugins/Chus Skyrim Randomizer SKSE.ilk
+SKSE/Plugins/Chus Skyrim Randomizer SKSE.exp
+SKSE/Plugins/Chus Skyrim Randomizer SKSE.dll.lastcodeanalysissucceeded
+SKSE/Plugins/CampfireData/READ_THIS_PLEASE_AND_DO_NOT_DELETE.txt
+SKSE/Plugins/CampfireData/__folder_managed_by_vortex
+SKSE/New Text Document.txt
+SKSE/__folder_managed_by_vortex
+SimplyBiggerTreesSE.esp
+SimplyBiggerTreesSE.bsa
+SimplyBiggerTreesSE - Textures.bsa
+Scripts.zip
+RLO - VIS Patch.esp
+RLO - Interiors.esp
+RLO - Interiors.bsa
+RLO - Illuminated Spells.esp
+RLO - IC Patch.esp
+RLO - Exteriors.esp
+RLO - Exteriors.bsa
+RLO - Effects.esp
+Relationship Dialogue Overhaul.esp
+Relationship Dialogue Overhaul.bsa
+Realistic-Voice.esp
+Populated Cities Towns Villages Legendary.esp
+Perfect Touch Them Essentials.esp
+New Text Document.txt
+mrbs-uniqueloot-se.esp
+JKs Skyrim_Holidays_Patch.esp
+JKs Skyrim.esp
+JK's Skyrim SE Holidays Patch Notes.txt
+JK's Skyrim Changelog.txt
+iNeed.esp
+iNeed.bsa
+iNeed - Textures.bsa
+iNeed - Extended.esp
+iNeed - Extended.bsa
+Immersive Citizens - AI Overhaul.esp
+Immersive Citizens - AI Overhaul.bsa
+Holidays.txt
+Holidays.esp
+Holidays.bsa
+Holidays - Textures.bsa
+HearthFires.esm
+ExtendedStay.esp
+ExtendedStay.bsa
+Dragonborn.esm
+Dawnguard.esm
+Data.7z
+crand.esp
+crand.bsa
+crand - text.bsa
+ClimatesOfTamriel.esm
+ClimatesOfTamriel.bsa
+Chu's Skyrim Randomizer 2.3.zip
+Chu's Skyrim Randomizer 2.2.zip
+Chu's Skyrim Randomizer 2.1.zip
+Alternate Start - Live Another Life.txt
+Alternate Start - Live Another Life.ini
+Alternate Start - Live Another Life.esp
+Alternate Start - Live Another Life.bsa
+Alternate Start - Live Another Life Extension Documentation.txt
+Alternate Start - Live Another Life Dungeon Compatibility.txt
+Alternate Start - Live Another Life - Textures.bsa
