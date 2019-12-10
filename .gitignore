@@ -5,7 +5,7 @@
 /HeightField/
 /meshes/
 /readmes/
-/scripts/
+scripts/*
 /shadercache/
 /source/
 /SSEEdit\ Backups/
@@ -18,7 +18,7 @@
 !CHUrandSKSE.bsa
 !CHUrandSKSE-t.bsa
 !CHUrandSKSE.esp
-
+!scripts/chutools.PEX
 
 Campfire.esm
 Campfire.bsa
